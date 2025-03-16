@@ -1,4 +1,3 @@
-¡Claro! Aquí tienes un **README.md** bien estructurado y estético para tu proyecto. Puedes copiarlo y pegarlo en el archivo `README.md` de tu repositorio.
 
 ---
 
